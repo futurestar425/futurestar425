@@ -12,7 +12,7 @@
 
     • Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Typescript, TailwindCSS.
   
-    • Backend Development with Node.JS, GraphQL, Golang, .NET, Django.
+    • Backend Development with Node.JS, Python, GraphQL, Golang, .NET, Django.
 
     • Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
 
