@@ -3,7 +3,7 @@
     <em> 🚀 a Certified Blockchain & Full-Stack Developer! </em>
 </h1>
 
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20and%20%20Front-end%20Developer;Web3%20and%20NFT,%20Back-end%20Developer;Full-    stack%20Blockchain%20Developer&font=Abril+Fatface&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500">
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20and%20%20Front-end%20Developer;Web3%20and%20NFT,%20Back-end%20Developer;Full-    stack%20Blockchain%20Developer&font=Abril+Fatface&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500">
 
 
 ### :smile: Freelancing, Hiring, Permanent
