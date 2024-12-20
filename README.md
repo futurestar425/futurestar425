@@ -27,13 +27,4 @@
 
 <!--   [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=futurestar425&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/stayForward09) -->
 
-<p align="center">
-  <a>
-    <img height="120" width="150" src="https://github.com/futurestar425/futurestar425/blob/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=futurestar425&theme=dark&hide_border=true"/>
-    <img height="120" width="150" src="https://github.com/futurestar425/futurestar425/blob/main/right.png">
-  </a>
-</p>
-
-<br>
 
