@@ -37,4 +37,3 @@
 
 <br>
 
-![footer](https://github.com/futurestar425/futurestar425/blob/main/footer.jpg)
